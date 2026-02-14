@@ -6,5 +6,6 @@ package org.example.model;
  */
 public class Role {
 
+    // Назва ролі
     String name;
 }
